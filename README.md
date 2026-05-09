@@ -61,10 +61,7 @@
 - 🎣 **Phishing Detection Website** *(Check Repositories)*  
   *A sophisticated machine-learning backend built with Flask to analyze URLs and detect malicious phishing attempts in real-time, wrapped in a glassmorphism UI.*  
   `Python` • `Flask` • `Machine Learning`
-
-- 🎭 **Deepfake Detection System** *(Check Repositories)*  
-  *A heavy-duty backend AI system designed to run deepfake detection inference models on large datasets using memory-efficient callbacks.*  
-  `Python` • `Deep Learning` • `Pytest`
+s
 
 ---
 
