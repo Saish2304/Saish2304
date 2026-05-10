@@ -1,0 +1,173 @@
+<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ██                   TERMINAL BOOT SEQUENCE                ██ -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+```
+███████╗ █████╗ ██╗███████╗██╗  ██╗     ██████╗  █████╗ ██╗██╗  ██╗██╗    ██╗ █████╗ ██████╗
+██╔════╝██╔══██╗██║██╔════╝██║  ██║    ██╔════╝ ██╔══██╗██║██║ ██╔╝██║    ██║██╔══██╗██╔══██╗
+███████╗███████║██║███████╗███████║    ██║  ███╗███████║██║█████╔╝ ██║ █╗ ██║███████║██║  ██║
+╚════██║██╔══██║██║╚════██║██╔══██║    ██║   ██║██╔══██║██║██╔═██╗ ██║███╗██║██╔══██║██║  ██║
+███████║██║  ██║██║███████║██║  ██║    ╚██████╔╝██║  ██║██║██║  ██╗╚███╔███╔╝██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝     ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═════╝
+```
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/Saish2304">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=%24+whoami+%E2%86%92+Full-Stack+Dev+%7C+AI+Engineer;%24+ls+skills%2F+%E2%86%92+React+FastAPI+Python+NLP;%24+cat+passion.txt+%E2%86%92+Building+AI-Powered+Apps;%24+git+log+--oneline+%E2%86%92+Always+shipping+something+new;%24+sudo+make+the-web+smarter" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saish2304&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/Saish2304?style=for-the-badge&color=00ff9c&labelColor=0d1117&label=FOLLOWERS" />
+</div>
+
+<br/>
+
+---
+
+## `~/saish $ cat about.json`
+
+```json
+{
+  "name"       : "Saish Gaikwad",
+  "role"       : "Full-Stack Developer  &  AI Engineer",
+  "location"   : "🇮🇳 India",
+  "languages"  : ["Python", "JavaScript", "TypeScript", "SQL"],
+  "frameworks" : ["React", "FastAPI", "Node.js", "Flask"],
+  "ai_stack"   : ["SpaCy NLP", "scikit-learn", "LLMs", "Cosine Similarity"],
+  "databases"  : ["PostgreSQL", "MongoDB"],
+  "currently"  : "Building CareerMitra AI — an NLP-powered job matcher",
+  "superpower" : "Turning AI research papers → production web apps",
+  "email"      : "Open to collabs — check my GitHub!"
+}
+```
+
+---
+
+## `~/saish $ ls -la projects/`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 [CareerMitra AI](https://github.com/Saish2304/CareerMitra-AI)
+```
+> STATUS:  [████████░░] ACTIVE DEV
+> STACK:   FastAPI · React · SpaCy · TailwindCSS
+> GOAL:    Resume → NLP extraction → Cosine
+           Similarity → Real-time remote job match
+> IMPACT:  End-to-end AI career intelligence platform
+```
+
+</td>
+<td width="50%">
+
+### 🎣 Phishing Detection Engine
+```
+> STATUS:  [██████████] SHIPPED
+> STACK:   Python · Flask · Machine Learning
+> GOAL:    Real-time URL analysis to detect
+           malicious phishing attempts
+> UI:      Glassmorphism frontend
+> IMPACT:  Cybersecurity ML in the browser
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `~/saish $ cat tech_stack.sh`
+
+**⚡ Languages & Runtimes**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff9c)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff9c)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff9c)
+
+**🔧 Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff9c)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff9c)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00ff9c)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00ff9c)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00ff9c)
+
+**🤖 AI / Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00ff9c)
+![SpaCy](https://img.shields.io/badge/SpaCy_NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=00ff9c)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00ff9c)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00ff9c)
+
+**🗄️ Databases & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff9c)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff9c)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff9c)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=00ff9c)
+
+---
+
+## `~/saish $ git log --stat`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Saish2304&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&rank_icon=github" />
+<img height="180" src="https://streak-stats.demolab.com?user=Saish2304&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saish2304&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## `~/saish $ htop   # what's running in my brain rn`
+
+```
+PID   PROCESS                          CPU%   MEM     STATUS
+───────────────────────────────────────────────────────────────
+001   LLM_Research.py                  48%    HIGH    ██████████ RUNNING
+002   CareerMitra_AI_dev.sh            35%    HIGH    █████████░ RUNNING
+003   DeepLearning_Course.ipynb        10%    MED     ██████░░░░ RUNNING
+004   Open_Source_Contributions        5%     LOW     ███░░░░░░░ QUEUED
+005   Coffee.exe                       2%     MED     ████████░░ RUNNING
+```
+
+---
+
+## `~/saish $ ping connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://linkedin.com/in/saish-gaikwad)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/Saish2304)
+
+```
+> Ping successful. Open to: collabs · freelance · open-source · internships
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  "First, solve the problem. Then, write the code." – J. Johnson  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff9c,0d1117&height=120&section=footer)
+
+</div>
